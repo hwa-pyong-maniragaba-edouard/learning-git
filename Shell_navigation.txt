@@ -1,0 +1,3 @@
+pwd : command used to see the current directory you are working on
+ls : list the currect files and folders in your directory 
+less : is a pager you can add different flags for checking the content on your files 

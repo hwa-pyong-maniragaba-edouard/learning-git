@@ -1,2 +1,3 @@
 hello world am a new files hn the village here brothers
-am learning some git commands and shit you know what am saying:
+am learning some git commands and shit you know what am saying
+high, we are creating a conflict
